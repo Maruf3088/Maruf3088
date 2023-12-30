@@ -1,4 +1,4 @@
-[![MasterHead]([https://camo.githubusercontent.com/ea0e993a6991cfeed8876b01ff2c16b7918207cf9a88d21e192b05754d1d0864/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313130302f312a2d6e744c33447376632d644a35634c475274537545772e676966](https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif))]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif))]
 <h1 align="center">Hi 👋, I'm Maruf Islam</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
