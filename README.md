@@ -21,10 +21,21 @@
 <a href="https://www.linkedin.com/in/maruf-islam-3a95551a5/" >
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 <a href="https://maruf3088.github.io/sample-portfolio/" target="_blank" >
-<img src="https://img.shields.io/badge/Demo-Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
+<img src="https://img.shields.io/badge/Demo Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:imaruf770@gmail.com" target="_blank" >
-<img src="https://img.shields.io/badge/Maruf%20Islam-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-
+<img src="https://img.shields.io/badge/Maruf%20Islam-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>  
+<a href="https://www.facebook.com/profile.php?id=100047649360152&mibextid=ZbWKwL" >
+<img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://codeforces.com/profile/C233228" >
+<img src="https://img.shields.io/badge/Codeforce-0A66C2?style=for-the-badge&logo=Codeforce&logoColor=white" alt="Codeforce" /></a>
+<a href="https://www.hackerrank.com/profile/imaruf770" >
+<img src="https://img.shields.io/badge/HackerRank-0A66C2?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://vjudge.net/user/Maruf_28" >
+<img src="https://img.shields.io/badge/Vertual Judge-0A66C2?style=for-the-badge&logo=Virtual Judge&logoColor=white" alt="Virtual Judge" /></a>
+<a href="https://www.hackerearth.com/@imaruf770?update=google&purpose=login&source=homepage" >
+<img src="https://img.shields.io/badge/Hacker Earth-0A66C2?style=for-the-badge&logo=hacker Earth&logoColor=white" alt="Hacker Earth" /></a>
+<a href="https://judge.beecrowd.com/en/profile/864073" >
+<img src="https://img.shields.io/badge/Beecrowd-0A66C2?style=for-the-badge&logo=Beecrowd&logoColor=white" alt="Beecrowd" /></a>
 
 </p>
 
@@ -51,13 +62,13 @@
 
 # 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![GIT](https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![CHAKRAUI](https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white) ![VSCODE](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![GIT](https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![CHAKRAUI](https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white) ![VSCODE](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruf3088&show_icons=true&locale=en" alt="maruf3088" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maruf3088&" alt="maruf3088" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf3088&show_icons=true&locale=en&layout=compact" alt="maruf3088" /></p>
+
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
  </p>
