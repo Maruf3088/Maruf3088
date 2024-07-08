@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/maruf-islam-3a95551a5/" >
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-<a href="https://maruf3088.github.io/sample-portfolio/" target="_blank" >
+<a href="https://maruf3088.github.io/New-Portfolio/" target="_blank" >
 <img src="https://img.shields.io/badge/Demo Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:imaruf770@gmail.com" target="_blank" >
 <img src="https://img.shields.io/badge/Maruf%20Islam-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>  
