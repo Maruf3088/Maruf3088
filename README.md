@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning *web development*
+- 🌱 I’m currently learning *Full stack web development*
 
-- 💬 Ask me about **HTML-CSS-JS**
+- 💬 Ask me about **web development journey**
 
 - 📫 How to reach me **imaruf770@gmail.com**
 
@@ -74,4 +74,4 @@
  </p>
 
 
-can you make my profile read me file more beautiful
+
